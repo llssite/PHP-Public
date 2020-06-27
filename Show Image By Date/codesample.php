@@ -10,7 +10,7 @@ $image_array = array(
     ),
     // Independence Day
     array(
-        "image" => "bin/assets/img/image3.png",
+        "image" => "bin/assets/img/image2.png",
         "start" => "07-04", // MM-DD
         "end" => "07-04" // MM-DD
     ),
@@ -44,13 +44,13 @@ $image_array = array(
     ),
     // Independence Day 2020
     array(
-        "image" => "bin/assets/img/image3.png",
+        "image" => "bin/assets/img/image2-2020.png",
         "start" => "07-04-2020", // MM-DD-YYYY
         "end" => "07-04-2020" // MM-DD-YYYY
     ),
     // Independence Day 2021
     array(
-        "image" => "bin/assets/img/image3.png",
+        "image" => "bin/assets/img/image2-2021.png",
         "start" => "07-04-2021", // MM-DD-YYYY
         "end" => "07-04-2021" // MM-DD-YYYY
     ),
